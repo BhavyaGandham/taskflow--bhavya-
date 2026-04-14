@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow
 
 A minimal, real task management system with authentication, relational data, REST API, and a polished React UI.
@@ -490,3 +491,6 @@ Review the code comments or run:
 docker compose logs -f backend
 docker compose exec backend npm run migrate:down
 ```
+=======
+# taskflow--bhavya-
+>>>>>>> cba225ebac2d47a07edca1800c27dd3cc58c1599
