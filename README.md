@@ -131,8 +131,8 @@ docker compose run --rm backend npm run seed
 After running `docker compose up`, use these credentials to log in immediately **without registering**:
 
 ```
-Email:    test@example.com
-Password: password123
+Email:    bhavya@gmail.com
+Password: bha765
 ```
 
 Click **Login**, enter the credentials above, and you'll be redirected to the projects page with a pre-seeded project and tasks ready to explore.
