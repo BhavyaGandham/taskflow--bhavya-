@@ -116,7 +116,7 @@ Migration files are in `backend/migrations/`. Each file must export `up` and `do
 
 The seed script runs **automatically** on backend container start. It creates:
 
-- **User**: `test@example.com` / `password123`
+- **User**: `bhavya@gmail.com` / `bha765`
 - **Project**: "Seed Project"
 - **Tasks**: 3 tasks with different statuses and priorities
 
