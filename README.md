@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TaskFlow
 
 A minimal, real task management system with authentication, relational data, REST API, and a polished React UI.
