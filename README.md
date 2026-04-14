@@ -112,20 +112,6 @@ docker compose run --rm backend npm run migrate:down
 
 Migration files are in `backend/migrations/`. Each file must export `up` and `down` functions using `node-pg-migrate` API.
 
-## Seed Data
-
-The seed script runs **automatically** on backend container start. It creates:
-
-- **User**: `bhavya@gmail.com` / `bha765`
-- **Project**: "Seed Project"
-- **Tasks**: 3 tasks with different statuses and priorities
-
-To run manually:
-
-```bash
-docker compose run --rm backend npm run seed
-```
-
 ## Test Credentials
 
 After running `docker compose up`, use these credentials to log in immediately **without registering**:
